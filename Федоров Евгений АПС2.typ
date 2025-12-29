@@ -11,7 +11,7 @@
     #v(1.2cm)
     #text(11pt)[Дисциплина: Архитектура Программных Систем]
     #v(1.6cm)
-    #strong[#text(16pt)[Лабораторная работа №1]]
+    #strong[#text(16pt)[Лабораторная работа №2]]
     #v(0.3cm)
     #strong[#text(14pt)[#title]]
     #if subtitle != none [ #linebreak() #strong[#text(12pt)[#subtitle]] ]
